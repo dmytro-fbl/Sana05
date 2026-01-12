@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Дмитро\\Бакалавр\\ІІ курс\\2 курс 1 семестр\\КУРСОВА\\Sana05\\ConsoleProgram\\ConsoleProgram.csproj",
+      "projectUniqueName": "C:\\Дмитро\\курси\\Sana\\Sana05\\ConsoleProgram\\ConsoleProgram.csproj",
       "projectName": "ConsoleProgram",
-      "projectPath": "C:\\Дмитро\\Бакалавр\\ІІ курс\\2 курс 1 семестр\\КУРСОВА\\Sana05\\ConsoleProgram\\ConsoleProgram.csproj",
+      "projectPath": "C:\\Дмитро\\курси\\Sana\\Sana05\\ConsoleProgram\\ConsoleProgram.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Дмитро\\Бакалавр\\ІІ курс\\2 курс 1 семестр\\КУРСОВА\\Sana05\\ConsoleProgram\\obj\\",
+      "outputPath": "C:\\Дмитро\\курси\\Sana\\Sana05\\ConsoleProgram\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
