@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u0411\u0430\u043A\u0430\u043B\u0430\u0432\u0440\\\u0406\u0406 \u043A\u0443\u0440\u0441\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\\Sana05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1042984F-098A-41B1-BBCB-A11562B52B8A}|ConsoleProgram\\ConsoleProgram.csproj|c:\\\u0434\u043C\u0438\u0442\u0440\u043E\\\u0431\u0430\u043A\u0430\u043B\u0430\u0432\u0440\\\u0456\u0456 \u043A\u0443\u0440\u0441\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\sana05\\consoleprogram\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1042984F-098A-41B1-BBCB-A11562B52B8A}|ConsoleProgram\\ConsoleProgram.csproj|solutionrelative:consoleprogram\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1042984F-098A-41B1-BBCB-A11562B52B8A}|ConsoleProgram\\ConsoleProgram.csproj|c:\\\u0434\u043C\u0438\u0442\u0440\u043E\\\u0431\u0430\u043A\u0430\u043B\u0430\u0432\u0440\\\u0456\u0456 \u043A\u0443\u0440\u0441\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\\sana05\\consoleprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1042984F-098A-41B1-BBCB-A11562B52B8A}|ConsoleProgram\\ConsoleProgram.csproj|solutionrelative:consoleprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 250,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u0411\u0430\u043A\u0430\u043B\u0430\u0432\u0440\\\u0406\u0406 \u043A\u0443\u0440\u0441\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\\Sana05\\ConsoleProgram\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ConsoleProgram\\Vehicle.cs",
+              "ToolTip": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u0411\u0430\u043A\u0430\u043B\u0430\u0432\u0440\\\u0406\u0406 \u043A\u0443\u0440\u0441\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\\Sana05\\ConsoleProgram\\Vehicle.cs",
+              "RelativeToolTip": "ConsoleProgram\\Vehicle.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAEIAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T14:51:40.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u0411\u0430\u043A\u0430\u043B\u0430\u0432\u0440\\\u0406\u0406 \u043A\u0443\u0440\u0441\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\\Sana05\\ConsoleProgram\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleProgram\\Program.cs",
+              "ToolTip": "C:\\\u0414\u043C\u0438\u0442\u0440\u043E\\\u0411\u0430\u043A\u0430\u043B\u0430\u0432\u0440\\\u0406\u0406 \u043A\u0443\u0440\u0441\\2 \u043A\u0443\u0440\u0441 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u0423\u0420\u0421\u041E\u0412\u0410\\Sana05\\ConsoleProgram\\Program.cs",
+              "RelativeToolTip": "ConsoleProgram\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T14:51:09.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 1 семестр\КУРСОВА\Sana05\ConsoleProgram\obj\Debug\net8.0\ConsoleProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 1 семестр\КУРСОВА\Sana05\ConsoleProgram\obj\Debug\net8.0\ConsoleProgram.AssemblyInfoInputs.cache
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 1 семестр\КУРСОВА\Sana05\ConsoleProgram\obj\Debug\net8.0\ConsoleProgram.AssemblyInfo.cs
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 1 семестр\КУРСОВА\Sana05\ConsoleProgram\obj\Debug\net8.0\ConsoleProgram.csproj.CoreCompileInputs.cache
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 1 семестр\КУРСОВА\Sana05\ConsoleProgram\bin\Debug\net8.0\ConsoleProgram.exe
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 1 семестр\КУРСОВА\Sana05\ConsoleProgram\bin\Debug\net8.0\ConsoleProgram.deps.json
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 1 семестр\КУРСОВА\Sana05\ConsoleProgram\bin\Debug\net8.0\ConsoleProgram.runtimeconfig.json
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 1 семестр\КУРСОВА\Sana05\ConsoleProgram\bin\Debug\net8.0\ConsoleProgram.dll
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 1 семестр\КУРСОВА\Sana05\ConsoleProgram\bin\Debug\net8.0\ConsoleProgram.pdb
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 1 семестр\КУРСОВА\Sana05\ConsoleProgram\obj\Debug\net8.0\ConsoleProgram.dll
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 1 семестр\КУРСОВА\Sana05\ConsoleProgram\obj\Debug\net8.0\refint\ConsoleProgram.dll
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 1 семестр\КУРСОВА\Sana05\ConsoleProgram\obj\Debug\net8.0\ConsoleProgram.pdb
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 1 семестр\КУРСОВА\Sana05\ConsoleProgram\obj\Debug\net8.0\ConsoleProgram.genruntimeconfig.cache
+C:\Дмитро\Бакалавр\ІІ курс\2 курс 1 семестр\КУРСОВА\Sana05\ConsoleProgram\obj\Debug\net8.0\ref\ConsoleProgram.dll
